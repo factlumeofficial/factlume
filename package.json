@@ -1,0 +1,1 @@
+{"name":"factlume","version":"1.0.0","private":true,"description":"FACTLUME facts, history and barcode lookup","engines":{"node":">=18"},"scripts":{"start":"node server.js","test":"node --test test/api.test.js","lint":"node --check server.js && node --check public/app.js"},"license":"UNLICENSED"}
